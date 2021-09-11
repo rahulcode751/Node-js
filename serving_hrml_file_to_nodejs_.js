@@ -1,3 +1,7 @@
+/// here in this code we are serving html file to browser using nodejs
+/// this code contain h html file wwhich is present in this repository as html_file_.html
+
+
 const http = require('http')  /// this is a http module
 const fs = require('fs')      /// it is an fs module
 
